@@ -1,0 +1,50 @@
+{
+    "cameraHeight": 1.6,
+    "layoutHeight": -0.24081791937351227,
+    "layoutObj2ds": {
+        "num": 0,
+        "obj2ds": []
+    },
+    "layoutPoints": {
+        "num": 1,
+        "points": [
+            {
+                "coords": [
+                    0.875,
+                    0.5
+                ],
+                "id": 1,
+                "xyz": [
+                    0.035445511372610684,
+                    0,
+                    0.035445511372610684
+                ]
+            }
+        ]
+    },
+    "layoutWalls": {
+        "num": 1,
+        "walls": [
+            {
+                "id": 1,
+                "normal": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "planeEquation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    -0.0
+                ],
+                "pointsIdx": [
+                    0,
+                    0
+                ],
+                "width": 0.0
+            }
+        ]
+    },
+    "panoId": null
+}
