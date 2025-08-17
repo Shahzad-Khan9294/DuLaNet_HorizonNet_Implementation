@@ -15,8 +15,7 @@ pip install numpy==1.19.5 \
             matplotlib==3.3.4 \
             networkx==2.5 \
             imageio==2.9.0
-
-# PyTorch CPU-only
+            
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 pip install GitPython
 
@@ -26,3 +25,8 @@ pip install GitPython
 1. Layout Prediction [Detects important elements like corners, boundaries, and wall edges]
 2. 3D Layout ConstructionUses [geometric reasoning to reconstruct the room in 3D, generating walls, planes, and room height]
 3. Dual Projection [Ceiling-view projection (top-down view of the room) & Panorama-view projection (the original equirectangular image)]
+
+
+HERE ARE THE RESULTS!
+
+![DulaNet_Result](https://github.com/user-attachments/assets/c999c34a-228f-47ec-a372-884a3edf491f)
